@@ -1,0 +1,70 @@
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\bin\Debug\test.exe.config
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\bin\Debug\test.exe
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\bin\Debug\test.pdb
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\bin\Debug\SharpDX.Direct2D1.dll
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\bin\Debug\SharpDX.Direct3D11.dll
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\bin\Debug\SharpDX.dll
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\bin\Debug\SharpDX.DXGI.dll
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\bin\Debug\SharpDX.Mathematics.dll
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\bin\Debug\SharpDX.pdb
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\bin\Debug\SharpDX.Direct2D1.pdb
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\bin\Debug\SharpDX.Direct2D1.xml
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\bin\Debug\SharpDX.Direct3D11.pdb
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\bin\Debug\SharpDX.Direct3D11.xml
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\bin\Debug\SharpDX.DXGI.pdb
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\bin\Debug\SharpDX.DXGI.xml
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\bin\Debug\SharpDX.Mathematics.pdb
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\bin\Debug\SharpDX.Mathematics.xml
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\obj\Debug\ConquistaPlanetaria.csproj.AssemblyReference.cache
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\obj\Debug\test.juego.Form1.resources
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\obj\Debug\ConquistaPlanetaria.csproj.GenerateResource.cache
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\obj\Debug\ConquistaPlanetaria.csproj.CoreCompileInputs.cache
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\obj\Debug\ConquistaPlanetaria.csproj.CopyComplete
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\obj\Debug\test.exe
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF - base\juego\test\obj\Debug\test.pdb
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\bin\Debug\test.exe.config
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\bin\Debug\test.exe
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\bin\Debug\test.pdb
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\bin\Debug\SharpDX.Direct2D1.dll
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\bin\Debug\SharpDX.Direct3D11.dll
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\bin\Debug\SharpDX.dll
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\bin\Debug\SharpDX.DXGI.dll
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\bin\Debug\SharpDX.Mathematics.dll
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\bin\Debug\SharpDX.pdb
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\bin\Debug\SharpDX.Direct2D1.pdb
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\bin\Debug\SharpDX.Direct2D1.xml
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\bin\Debug\SharpDX.Direct3D11.pdb
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\bin\Debug\SharpDX.Direct3D11.xml
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\bin\Debug\SharpDX.DXGI.pdb
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\bin\Debug\SharpDX.DXGI.xml
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\bin\Debug\SharpDX.Mathematics.pdb
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\bin\Debug\SharpDX.Mathematics.xml
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\obj\Debug\ConquistaPlanetaria.csproj.AssemblyReference.cache
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\obj\Debug\test.juego.Form1.resources
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\obj\Debug\ConquistaPlanetaria.csproj.GenerateResource.cache
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\obj\Debug\ConquistaPlanetaria.csproj.CoreCompileInputs.cache
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\obj\Debug\ConquistaPlanetaria.csproj.CopyComplete
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\obj\Debug\test.exe
+D:\Documents\UNAJ\Ingeniería en Informática\Complejidad Temporal\2023\TPF\juego\test\obj\Debug\test.pdb
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\bin\Debug\test.exe.config
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\bin\Debug\test.exe
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\bin\Debug\test.pdb
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\bin\Debug\SharpDX.dll
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\bin\Debug\SharpDX.pdb
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\bin\Debug\SharpDX.Mathematics.pdb
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\obj\Debug\ConquistaPlanetaria.csprojResolveAssemblyReference.cache
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\obj\Debug\test.juego.Form1.resources
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\obj\Debug\ConquistaPlanetaria.csproj.GenerateResource.Cache
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\obj\Debug\test.exe
+C:\Users\Giuliana\Downloads\TPFNicolosi\TPF\juego\test\obj\Debug\test.pdb
